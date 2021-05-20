@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+author: "Scifi9902"
+description: ${project.description}
+main: io.github.scifi9902.violet.VioletPlugin
