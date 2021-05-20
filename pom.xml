@@ -73,7 +73,7 @@
         <dependency>
             <groupId>com.github.Scifi9902</groupId>
             <artifactId>Command1</artifactId>
-            <version>d5e516950e</version>
+            <version>d307436d4e</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
